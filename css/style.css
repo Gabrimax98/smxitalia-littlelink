@@ -126,7 +126,7 @@
 /* Typography Scale */
 h1 {
 	margin:0 0 var(--spacing-m) 0;
-	font-size:var(--scale-5);           /* ~49px */
+	font-size:var(--scale-4);           /* ~49px */
   	font-weight:800;
 	line-height:1.1;
 	letter-spacing:-0.02em;
@@ -134,7 +134,7 @@ h1 {
 	overflow-wrap:break-word;
 }
 body {
-	font-size:var(--scale-1);           /* 20px */
+	font-size:var(--scale-0);           /* 20px */
   	line-height:1.6;
 }
 .container p {
