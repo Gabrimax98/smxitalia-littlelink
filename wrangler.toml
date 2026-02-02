@@ -4,3 +4,7 @@ compatibility_date = "2025-01-27"
 [assets]
 directory = "./"
 html_handling = "auto-trailing-slash"
+
+[[routes]]
+pattern = "join.smxitalia.com"
+custom_domain = true
