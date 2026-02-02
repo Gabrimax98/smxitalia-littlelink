@@ -1,5 +1,8 @@
 name = "smxitalia-littlelink"
 compatibility_date = "2025-01-27"
+workers_dev = true
+pattern = "join.smxitalia.com"
+custom_domain = true
 
 [assets]
 directory = "./"
